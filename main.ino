@@ -25,13 +25,13 @@ void loop() {
   if (key) {
     switch (key) {
       case '1':
-        Serial.println("Follow my Tiktok");
+        Serial.println("Star this repo");
         break;
       case '2':
         Serial.println("Or Gay");
         break;
       case '3':
-        Serial.println("3");
+        Serial.println("Made by Nitrous-0xide");
         break;
       case 'A':
         Serial.println("A");
