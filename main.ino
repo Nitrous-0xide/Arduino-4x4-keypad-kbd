@@ -28,7 +28,7 @@ void loop() {
         Serial.println("Star this repo");
         break;
       case '2':
-        Serial.println("Or Gay");
+        Serial.println("Or I delete your github");
         break;
       case '3':
         Serial.println("Made by Nitrous-0xide");
